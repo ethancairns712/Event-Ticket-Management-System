@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  TicketRoster.cpp
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(31,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(35,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(39,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(49,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(53,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ecair\source\repos\Event Ticket Management System\Event Ticket Management System\TicketRoster.cpp(57,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Event Ticket Management System.vcxproj -> C:\Users\ecair\source\repos\Event Ticket Management System\x64\Debug\Event Ticket Management System.exe
